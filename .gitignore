@@ -1,0 +1,134 @@
+# Візуальна студія
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.ipch
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.tlog
+*.log
+*.mdf
+*.ldf
+*.ndb
+*.opendb
+*.db-shm
+*.db-wal
+*.jfm
+*.aps
+*.ncb
+*.suo
+*.unsuccessfulbuild
+*.user
+*.userprefs
+*.rsuser
+*.sln.docstates
+*.cache
+*.pdb
+*.wixpdb
+*.svn/
+*.nuspec
+
+# Лог файли
+*.log
+
+# Git мерджери
+*.orig
+
+# Директории для компіляції
+[Oo]bj/
+[Bb]in/
+[Ll]og/
+[Tt]emp/
+[Ll]ogs/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Кеш файли
+*.pidb
+*.svd
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.orig
+*.orig.*
+
+# Пакети
+*.vspscc
+*.vssscc
+*.vshost.*
+
+# Залишки, створені інсталятором
+*.InstallState
+
+# Publish Web Output
+publish/
+*.[Pp]ublish.xml
+
+# Ядро .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Структура
+node_modules/
+bower_components/
+
+# TypScript
+lib/
+
+# Azure функції
+local.settings.json
+
+# MSTest результат
+TestResults/
+*.coverage
+*.coveragexml
+
+# ncrunch
+*.ncrunch*
+nCrunchTemp/
+
+# Випадкові файли
+*~
+
+# Підтримка користувача
+_Dump*
+*.diff
+*.patch
+
+# Папка IDE
+.idea/
+
+# Rider IDE
+.idea/
+.idea/*
+
+# Windows специфічні файли
+Thumbs.db
+ehthumbs.db
+
+# Кеш шрифтів
+*.luac
+
+# Directory яке не повинно включатися у проект
+.DS_Store
